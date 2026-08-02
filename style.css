@@ -1,25 +1,25 @@
 :root{
-  --bg: #F4F8FF;
+  --bg: #F2F8FF;
   --surface: #FFFFFF;
-  --surface-alt: #EAF2FA;
-  --border: #D6E3F7;
-  --text: #17263B;
-  --text-muted: #5B6C82;
-  --accent: #1E6FD9;        /* azul vivo principal */
-  --accent-soft: #DDEBFD;   /* fundo de tags/destaques */
-  --accent-deep: #0E3D73;   /* títulos, CTA, contraste */
-  --line: #C3D9F4;
+  --surface-alt: #E4F2FC;
+  --border: #CFE6F8;
+  --text: #0F2338;
+  --text-muted: #5A7089;
+  --accent: #2196f3;        /* azul vivo principal */
+  --accent-soft: #DCEFFC;   /* fundo de tags/destaques */
+  --accent-deep: #0069c0;   /* títulos, CTA, contraste */
+  --line: #BFDFF6;
   --radius: 14px;
 
   /* paleta vibrante complementar — usada em ícones, tags e destaques */
-  --mint: #0FA871;
-  --mint-soft: #D3F4E4;
-  --peach: #F2552A;
-  --peach-soft: #FDE0D2;
-  --lavender: #7A3FE3;
-  --lavender-soft: #E7DCFC;
-  --gold: #E8A100;
-  --gold-soft: #FCEAC4;
+  --mint: #0069c0;
+  --mint-soft: #D3E9FB;
+  --peach: #ab3ed8;
+  --peach-soft: #F1DEF9;
+  --lavender: #7f00b2;
+  --lavender-soft: #EAD9F2;
+  --gold: #1780d1;
+  --gold-soft: #DDF3FC;
 
   --font-display: 'Fraunces', serif;
   --font-body: 'Work Sans', sans-serif;
